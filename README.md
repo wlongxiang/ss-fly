@@ -24,3 +24,7 @@ Ubuntu 12+
 [Vultr优惠网](https://www.vultryhw.com/)
 
 [搬瓦工优惠网](https://www.bwgyhw.com/)
+
+
+### 我自己的教程
+已经在Azure上有布置好，只需要启动VM即可，密码与 IP port见/etc/shadowsocks.json
